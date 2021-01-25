@@ -1,4 +1,4 @@
-# AWS에서 사용할 Pyhton Scripts 모음
+# aws python scripts
 ---
 ### 종류
 * ec2
