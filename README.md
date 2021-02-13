@@ -1,6 +1,6 @@
 # aws python scripts
----
-### 종류
+
+### etc
 * ec2
 * vpc
 * keep adding
